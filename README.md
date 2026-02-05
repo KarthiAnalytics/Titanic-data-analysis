@@ -1,6 +1,6 @@
-# Titanic Data Analysis & Excel Dashboard
+![Dashboard Preview](Dashboard_Screenshot.png)
 
-Dashboard Preview - Dashboard_Screenshot.png
+# Titanic Data Analysis & Excel Dashboard
 
 ## Project Overview
 This project focuses on cleaning and analyzing the Titanic dataset using Python and visualizing insights using Excel.
